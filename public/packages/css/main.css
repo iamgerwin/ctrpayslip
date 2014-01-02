@@ -1,0 +1,29 @@
+#mainNav
+{
+	
+}
+.centerIt
+{
+	margin:0 auto;
+ 	float:none;
+}
+.bottomRight
+{
+    position: fixed;
+    top: 77%;
+    right: 0%;
+    z-index: -1;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.element {
+  .center-block();
+}
+#container{
+  margin-bottom: 5%;
+}
